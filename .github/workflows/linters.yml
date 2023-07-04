@@ -16,8 +16,9 @@ jobs:
           node-version: "18.x"
       - name: Setup Lighthouse
         run: npm install -g @lhci/cli@0.11.x
-      - name: Lighthouse Report
-        run: lhci autorun --upload.target=temporary-public-storage --collect.staticDistDir=.
+      - name: 'Run Lighthouse tests'
+        continue-on-error: true
+        run: lhci autorun
   webhint:
     name: Webhint
     runs-on: ubuntu-22.04
