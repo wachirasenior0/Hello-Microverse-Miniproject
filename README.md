@@ -26,45 +26,71 @@
 
 # 📖 Hello Microverse! <a name="about-project"></a>
 
-Hello Microverse! is a html and CSS oriented project that will show mastery of branch and pull functions of the github. 
+# 📖Hello Microverse!<a></a>
 
-## 🛠 Built With <a name="built-with"> </a>
-- HTML 
-- CSS
+**Hello Microverse!** is a html and CSS oriented project that will show mastery of branch and pull functions of the github. 
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+- HTML
+- CSS 
+<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- No linters errors
-- Correct GitHub flow
-- Professional Documentation
+- HTML to prepare page layout
+- CSS style up
+- Linters for error detection
+- Repository
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps clone the repository remotely using the link below; 
-
-- https://github.com/wachirasenior0/Hello-Microverse-Miniproject.git 
+- The Hello Microverse project marks the begining of my software journey at Microverse
 
 ### Prerequisites
 
-In order to run this project you need:
-- GIT installed
-- VScode editor
+- Git Installed
+
+<!--
+Example command:
 
 
 ### Setup
 
-Clone this repository to your desired folder using GIT
+- Run terminal on window
+- clone my repository
 
-### Install
+<!--
+Example commands:
 
-Install this project with VSCode
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
 
 ### Usage
 
-To run the project, execute the following command:
-- git clone https://github.com/wachirasenior0/Hello-Microverse-Miniproject.git 
+- Run on vs studio
+
+### Deployment
+
+- Execute the command prompt 
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -79,9 +105,12 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- responsive page 
-- Descriptive notes
-- other contributors collaborations
+
+- Html / css codes 
+- page designs for interative 
+- multi language sites for better inclusivity
+- linters to help in code functionality 
+- Javasript code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,7 +124,8 @@ Feel free to check the [Hello Microverse Miniproject](https://github.com/wachira
 
 ## ⭐️ Show your support <a name="support"></a>
 
-leave us five stars ⭐️⭐️⭐️⭐️⭐️
+- We welcome feedback and criticism 
+- Share with friends and family 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,9 +137,14 @@ I would like to thank Microverse for making my dream come true. Continue support
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-- **[Did you find the project helpful?]**
 
-- **[Would you recommed the project to other people?]**
+- Did you find the project helpful?
+
+  -_______________
+
+- Would you recommed the project to other people?
+
+  - _______________
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
